@@ -1,10 +1,22 @@
 # PRODIGY_ML_01
- A simple implementation of linear regression using Python and scikit-learn.
-# Linear Regression Project
+ Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+Dataset: - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+## 📌 Libraries used:-
 
-## 📌 Overview
-This is a basic implementation of a linear regression model using Python and the scikit-learn library.  
-The model is designed to predict house prices based on a dataset.
+pandas: Data manipulation
+numpy: Numerical operations
+matplotlib.pyplot: Plotting on graph
+sklearn: Linear modelling of dataset
+scipy: Skew calculations
+## Column used for Training and Testing:-
+
+LotArea
+BedroomAbvGr
+BsmtFullBath
+BsmtHalfBath
+HalfBath
+TotalBsmtSF
+FullBath
 
 ## 🧠 Features
 - Data preprocessing (handling missing values, normalization)
