@@ -3,19 +3,30 @@
 Dataset: - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 ## 📌 Libraries used:-
 
-pandas: Data manipulation
-numpy: Numerical operations
-matplotlib.pyplot: Plotting on graph
-sklearn: Linear modelling of dataset
-scipy: Skew calculations
+pandas :  Data manipulation 
+
+numpy  :  Numerical operations
+
+matplotlib.pyplot :  Plotting on graph
+
+sklearn :  Linear modelling of dataset
+
+scipy :  Skew calculations
+
 ## Column used for Training and Testing:-
 
 LotArea
+
 BedroomAbvGr
+
 BsmtFullBath
+
 BsmtHalfBath
+
 HalfBath
+
 TotalBsmtSF
+
 FullBath
 
 ## 🧠 Features
